@@ -1300,8 +1300,6 @@
 		0BF648101A9C54E900BA963C /* TopSitesPanel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopSitesPanel.swift; sourceTree = "<group>"; };
 		0BF8F8D91AEFF1C900E90BC2 /* noTitle.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = noTitle.html; sourceTree = "<group>"; };
 		19DE1F661EC13B6400428B8C /* LeanplumIntegration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LeanplumIntegration.swift; sourceTree = "<group>"; };
-		19DE1F761EC13E8B00428B8C /* LeanplumLocationAndBeacons.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = LeanplumLocationAndBeacons.framework; path = Carthage/Build/iOS/LeanplumLocationAndBeacons.framework; sourceTree = "<group>"; };
-		19DE1F771EC13E8B00428B8C /* LeanplumLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = LeanplumLocation.framework; path = Carthage/Build/iOS/LeanplumLocation.framework; sourceTree = "<group>"; };
 		19DE1F781EC13E8C00428B8C /* Leanplum.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Leanplum.framework; path = Carthage/Build/iOS/Leanplum.framework; sourceTree = "<group>"; };
 		280CB1361C20E0A3005AF147 /* BookmarksSynchronizer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BookmarksSynchronizer.swift; path = Sync/Synchronizers/Bookmarks/BookmarksSynchronizer.swift; sourceTree = SOURCE_ROOT; };
 		28126F471C2F948E006466CC /* SQLiteBookmarksHelpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SQLiteBookmarksHelpers.swift; sourceTree = "<group>"; };
@@ -2765,8 +2763,6 @@
 		7B604FC11C496005006EEEC3 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				19DE1F761EC13E8B00428B8C /* LeanplumLocationAndBeacons.framework */,
-				19DE1F771EC13E8B00428B8C /* LeanplumLocation.framework */,
 				19DE1F781EC13E8C00428B8C /* Leanplum.framework */,
 				E46175F11EBB73A10021AE8A /* KSCrash.framework */,
 				E46175F21EBB73A10021AE8A /* Sentry.framework */,
